@@ -1,4 +1,4 @@
-# Python_Small_Projects
+# Python_extras
 
 This repository contains code of python projects
 
@@ -17,3 +17,12 @@ Using PyQt4 module.
  Run the python script
  
  ```python3 push_GUI.py```
+ 
+ ##2. Image recognisation using tesseract-ocr
+ 
+ ### Required 
+ 
+ 1.python tessaract-ocr wrapper, py-tesseract.
+ 2.opencv computer vision library(installing procedure for ubuntu- http://www.pyimagesearch.com/2015/06/22/install-opencv-3-0-and-python-2-7-on-ubuntu/
+ 
+(incomplete)
